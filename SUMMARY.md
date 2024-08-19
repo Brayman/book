@@ -6,6 +6,7 @@
 
 ## Основы (А0 А1)
 
+* [Алфавит и базовое произношение в польском языке](osnovy-a0-a1/alfavit-i-bazovoe-proiznoshenie-v-polskom-yazyke.md)
 * [Алфавит и базовое произношение](osnovy-a0-a1/alfavit-i-bazovoe-proiznoshenie.md)
 * [Основная грамматика](osnovy-a0-a1/osnovnaya-grammatika/README.md)
   * [Части речи](osnovy-a0-a1/osnovnaya-grammatika/chasti-rechi/README.md)
